@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Books"
+date:   2016-02-01 15:08:10 -0500
+img: img/portfolio/book.png
+modalID: modalBooks
+category: Interests
+---
+Currently reading: [Music for Geeks and Nerds: Learn Music with Python and Math](musicforgeeksandnerds.com)

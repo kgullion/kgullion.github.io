@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Linux"
+date:   2016-02-04 15:08:10 -0500
+img: img/portfolio/tux.png
+modalID: modalLinux
+category: Interests
+---
+Starting with Ubuntu Dapper Drake, I've been consistently using linux for almost ten years.

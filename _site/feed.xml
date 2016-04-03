@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Start Bootstrap</title>
-    <description>Web Developer - Graphic Artist - User Experience Designer
+    <title>Kyle Gullion</title>
+    <description>Computer Science Student at the University of Cincinnati
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Feb 2016 14:52:16 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Feb 2016 14:52:16 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.0</generator>
+    <link>http://kylegullion.com/</link>
+    <atom:link href="http://kylegullion.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Apr 2016 18:52:56 -0400</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2016 18:52:56 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Cabin</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
+        <title>Effects</title>
+        <description>&lt;p&gt;I build my own guitar effects from time to time.&lt;/p&gt;
 
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
+&lt;p&gt;Effects built:&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Fuzz Factory&lt;/li&gt;
+  &lt;li&gt;Mutron II&lt;/li&gt;
+  &lt;li&gt;Mutron III&lt;/li&gt;
+  &lt;li&gt;ROG Thor Marshall Simulator&lt;/li&gt;
+  &lt;li&gt;ROG May Queen&lt;/li&gt;
+  &lt;li&gt;and others (will update with more as I remember)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Feb 2016 15:08:10 -0500</pubDate>
-        <link>http://yourdomain.com/design/2016/02/06/cabin.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/design/2016/02/06/cabin.html</guid>
+        <link>http://kylegullion.com/interests/2016/02/06/effects.html</link>
+        <guid isPermaLink="true">http://kylegullion.com/interests/2016/02/06/effects.html</guid>
         
         
-        <category>Design</category>
+        <category>Interests</category>
         
       </item>
     
       <item>
-        <title>Cake</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
-
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
-
+        <title>Music</title>
+        <description>&lt;p&gt;Band: &lt;a href=&quot;http://www.wearesecondary.com/&quot;&gt;Secondary&lt;/a&gt; &lt;a href=&quot;https://www.facebook.com/WeAreSecondary&quot;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Feb 2016 15:08:10 -0500</pubDate>
-        <link>http://yourdomain.com/design/2016/02/05/cake.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/design/2016/02/05/cake.html</guid>
+        <link>http://kylegullion.com/interests/2016/02/05/music.html</link>
+        <guid isPermaLink="true">http://kylegullion.com/interests/2016/02/05/music.html</guid>
         
         
-        <category>Design</category>
+        <category>Interests</category>
         
       </item>
     
       <item>
-        <title>Circus</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
-
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
-
+        <title>Linux</title>
+        <description>&lt;p&gt;Starting with Ubuntu Dapper Drake, I’ve been consistently using linux for almost ten years.&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Feb 2016 15:08:10 -0500</pubDate>
-        <link>http://yourdomain.com/design/2016/02/04/circus.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/design/2016/02/04/circus.html</guid>
+        <link>http://kylegullion.com/interests/2016/02/04/linux.html</link>
+        <guid isPermaLink="true">http://kylegullion.com/interests/2016/02/04/linux.html</guid>
         
         
-        <category>Design</category>
+        <category>Interests</category>
         
       </item>
     
       <item>
         <title>Game</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
+        <description>&lt;p&gt;TBH, I’m far more interested in teaching computers to play games than playing them myself.
+I find DeepMind’s recent work on teaching a neural net to play atari games very cool because they are moving AI beyond a simple state machine or tree traversal.
+Their work with AlphaGo is even more interesting.
+Up until now, even an amateur player with a moderate amount of skill could bet the best Go AIs and AlphaGo recently defeated one of the top ranked players in the world four games to one.
+I’m looking forward to learning more about machine learning in coming semesters.&lt;/p&gt;
 
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
-
+&lt;p&gt;While I don’t play video games often, I do enjoy platformers such as ‘Splosion Man and Super Meat Boy.
+I’m also generally down for a good game of Magic, though a lot of the recent rule changes and new abilities have pretty much left me lost.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 15:08:10 -0500</pubDate>
-        <link>http://yourdomain.com/design/2016/02/03/game.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/design/2016/02/03/game.html</guid>
+        <link>http://kylegullion.com/interests/2016/02/03/game.html</link>
+        <guid isPermaLink="true">http://kylegullion.com/interests/2016/02/03/game.html</guid>
         
         
-        <category>Design</category>
+        <category>Interests</category>
         
       </item>
     
       <item>
-        <title>Safe</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
-
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
-
+        <title>Vision</title>
+        <description>&lt;p&gt;Currently working on a computer vision problem with the UC Robotics Team to calibrate and transform a camera input into what amounts to a overehead map for a robot to navigate.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Feb 2016 15:08:10 -0500</pubDate>
-        <link>http://yourdomain.com/design/2016/02/02/safe.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/design/2016/02/02/safe.html</guid>
+        <link>http://kylegullion.com/interests/2016/02/02/vision.html</link>
+        <guid isPermaLink="true">http://kylegullion.com/interests/2016/02/02/vision.html</guid>
         
         
-        <category>Design</category>
+        <category>Interests</category>
         
       </item>
     
       <item>
-        <title>Submarine</title>
-        <description>&lt;p&gt;Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;/p&gt;
-
-&lt;p&gt;In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!&lt;/p&gt;
-
+        <title>Books</title>
+        <description>&lt;p&gt;Currently reading: &lt;a href=&quot;musicforgeeksandnerds.com&quot;&gt;Music for Geeks and Nerds: Learn Music with Python and Math&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 15:08:10 -0500</pubDate>
-        <link>http://yourdomain.com/design/2016/02/01/submarine.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/design/2016/02/01/submarine.html</guid>
+        <link>http://kylegullion.com/interests/2016/02/01/books.html</link>
+        <guid isPermaLink="true">http://kylegullion.com/interests/2016/02/01/books.html</guid>
         
         
-        <category>Design</category>
+        <category>Interests</category>
         
       </item>
     

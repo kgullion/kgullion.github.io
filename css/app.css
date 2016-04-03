@@ -1,0 +1,27 @@
+#software .portfolio-item {
+    margin: 25px;
+    max-height: 256px;
+    max-width: 256px;
+}
+header {
+    background-image: url("http://www.gaslightproperty.com/wp-content/uploads/2012/10/UCcampus.jpg");
+    background-size: cover;
+}
+header .intro-text {
+    background-color: rgba(24,188,156,0.95);
+}
+header .center-block {
+    float: none !important
+}
+h3 {
+    text-align: center;
+}
+.navbar-default {
+    background-color: rgba(44, 62, 80, .95);
+}
+section {
+    padding: 100px 0 0 0;
+}
+footer {
+    padding: 50px 0 0 0;
+}

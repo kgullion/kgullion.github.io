@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Effects"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/controls.png
+modalID: modalEffects
+category: Interests
+---
+I build my own guitar effects from time to time.
+
+Effects built:
+
+* Fuzz Factory
+* Mutron II
+* Mutron III
+* ROG Thor Marshall Simulator
+* ROG May Queen
+* and others (will update with more as I remember)

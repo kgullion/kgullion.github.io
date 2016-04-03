@@ -4,10 +4,13 @@ title:  "Game"
 date:   2016-02-03 15:08:10 -0500
 img: img/portfolio/game.png
 modalID: modalGame
-category: Design
+category: Interests
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+TBH, I'm far more interested in teaching computers to play games than playing them myself.
+I find DeepMind's recent work on teaching a neural net to play atari games very cool because they are moving AI beyond a simple state machine or tree traversal.
+Their work with AlphaGo is even more interesting.
+Up until now, even an amateur player with a moderate amount of skill could bet the best Go AIs and AlphaGo recently defeated one of the top ranked players in the world four games to one.
+I'm looking forward to learning more about machine learning in coming semesters.
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+While I don't play video games often, I do enjoy platformers such as 'Splosion Man and Super Meat Boy.
+I'm also generally down for a good game of Magic, though a lot of the recent rule changes and new abilities have pretty much left me lost.

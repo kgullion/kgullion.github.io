@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Music"
+date:   2016-02-05 15:08:10 -0500
+img: img/portfolio/cab.png
+modalID: modalMusic
+category: Interests
+---
+Band: [Secondary](http://www.wearesecondary.com/) [Facebook](https://www.facebook.com/WeAreSecondary)

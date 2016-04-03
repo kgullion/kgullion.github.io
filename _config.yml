@@ -6,23 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
-email: your-email@domain.com
+title: Kyle Gullion
+email: kgullion@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Computer Science Student at the University of Cincinnati
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kylegullion.com" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
+#twitter_username: SBootstrap
+github_username:  kgullion
+facebook_username: kylegullion
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+address_street: 621 McAlpin Ave
+address_city: Cincinnati
+address_state: OH
+address_zip: 45220
 
 # Build settings
 markdown: kramdown

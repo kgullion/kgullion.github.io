@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Vision"
+date:   2016-02-02 15:08:10 -0500
+img: img/portfolio/eye.png
+modalID: modalVision
+category: Interests
+---
+Currently working on a computer vision problem with the UC Robotics Team to calibrate and transform a camera input into what amounts to a overehead map for a robot to navigate.

@@ -1,25 +1,43 @@
 <!-- Portfolio Grid Section -->
-    <section id="portfolio">
+    <section id="experience">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>Experience</h2>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#{{ post.modalID }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="{{ site.baseurl }}/{{ post.img }}" class="img-responsive" alt="">
-                        </a>
-                    </div>
-                {% endfor %}
+                <h3><a href="http://butterfieldeng.com">Butterfield Engineering</a></h3>
+                <div class="col-lg-8 col-lg-offset-2">
+                    <p>
+                        For my first co-op in the summer of 2015, I worked with this Cincinnati-based contracting company.
+                        I feel this was a great experience because it allowed me to work on a variety of different projects at some of the largest companies in the Cincinnati area.
+                        One week I would be working on data collection and analysis systems and the next I could be doing anything from image processing and data visualization to helping administration build a more responsive website.
+                    </p>
+                    <p>A few of the projects I was able to contribute to include:</p>
+                    <ul>
+                    <li>Migrating an older codebase to a more maintainable, object-oriented approach.</li>
+                    <li>Help develop version-control standards (mostly based on gitflow) and roll out Git to the entire company.</li>
+                    <li>Model a data collection process and create a database to store testing results and metadata.</li>
+                    <li>Automatically change the perspective of visual data using linear algebra and trig (this was before discovering the wonders of openCV unfortunately).</li>
+                    <li>Design and build a basic relay board for a NI DAQ.</li>
+                </ul>
+                    <p>
+                    I was fortunate enough to be able to stay on part-time even after my co-op ended and I look forward to working full-time with them again during my next co-op semester this summer.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <h3><a href="http://ceas.uc.edu/robotics.html">UC Robotics Team</a></h3>
+                <div class="col-lg-8 col-lg-offset-2">
+                    <p>
+                        Near the end of Fall semester I joined the UC Robotics Team and began working with them on the unmanned ground vehicle project.
+                        My primary contribution has been to the vision system.
+                        Working closely with Joe Hirschfeld and Doug Flick, we have automated the calibration of the cameras used on the self driving vehicle.
+                        We are currently working to transform a camera image to a laser scan, which is something akin to a 2D overhead map that tells the robot where obstacles are.
+                    </p>
+                </div>
             </div>
         </div>
     </section>
